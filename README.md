@@ -40,10 +40,7 @@
 
 Ссылка на проект: https://qa-bugreport.atlassian.net/wiki/spaces/~639cb376b1082c30bb92996b/pages/65740/1-+2-
 
-###### логин elenka_09@mail.ru
+###### логин 
 
-###### пароль 1212Ea!@
+###### пароль 
 
-Контактная информация
-
-Email: elena.oleynik.87@gmail.com
