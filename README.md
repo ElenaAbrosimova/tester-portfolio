@@ -38,7 +38,7 @@
 
 написать отчет о результатах тестирования
 
-Ссылка на проект: https://qa-bugreport.atlassian.net/wiki/spaces/~639cb376b1082c30bb92996b/pages/65740/1-+2-
+[Ссылка на проект]: (https://qa-bugreport.atlassian.net/wiki/spaces/~639cb376b1082c30bb92996b/pages/65740/1-+2-)
 
 ###### логин 
 
