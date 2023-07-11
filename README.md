@@ -10,11 +10,11 @@
 
 ## Навыки и технологии
 
-**Jira**, **Qase.io**, **SQL**, **Postman**, **Swagger**, **SoapUI**, **Charles**, **Chrome DevTools**
+:pushpin: **Jira**, **Qase.io**, **SQL**, **Postman**, **Swagger**, **SoapUI**, **Charles**, **Chrome DevTools** :pushpin:
 
 ## Проекты
 
-**Проект 1**: тест веб-приложения для учителей от Skyeng через UI
+:open_file_folder: **Проект 1**: тест веб-приложения для учителей от Skyeng через UI
 
 Что нужно было сделать:
 
@@ -26,7 +26,7 @@
 
 написать отчет о результатах тестирования
 
-**Проект 2**: тест кабинета учителя в приложении Skyeng через API
+:open_file_folder: **Проект 2**: тест кабинета учителя в приложении Skyeng через API
 
 Что нужно было сделать:
 
@@ -38,7 +38,7 @@
 
 написать отчет о результатах тестирования
 
-Ссылка на проект: https://qa-bugreport.atlassian.net/wiki/spaces/~639cb376b1082c30bb92996b/pages/65740/1-+2-/
+:paperclip: Ссылка на проект: https://qa-bugreport.atlassian.net/wiki/spaces/~639cb376b1082c30bb92996b/pages/65740/1-+2-/
 
 ###### логин 
 
