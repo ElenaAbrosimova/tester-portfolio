@@ -38,6 +38,7 @@
 
 4. написать отчет о результатах тестирования
 
-:paperclip: Ссылка на проект: https://docs.google.com/document/d/1ze5e_nAYR36fZpF8VXzACoIltQvqWY8jEPWuRI-NtAA/edit?usp=sharing
+:mortar_board: Ссылка на проект: https://docs.google.com/document/d/1ze5e_nAYR36fZpF8VXzACoIltQvqWY8jEPWuRI-NtAA/edit?usp=sharing
 
+:paperclip: Вложения в папке 'тест SkyEng UI_API'
 
