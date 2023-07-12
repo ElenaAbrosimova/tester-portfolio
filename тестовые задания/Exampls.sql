@@ -1,7 +1,7 @@
-1. Найдите id (поле user_id) пользователя с почтой houston42@gmail.com (таблица users). Запрос: SELECT user_id FROM users where user_email = 'houston42@gmail.com';
+--1. Найдите id (поле user_id) пользователя с почтой houston42@gmail.com (таблица users). Запрос: SELECT user_id FROM users where user_email = 'houston42@gmail.com';
 Ответ: 14924
  
-2. Найдите уровень (поле level) студента с user_id = 44133 (таблица student).
+--2. Найдите уровень (поле level) студента с user_id = 44133 (таблица student).
 Запрос: SELECT level from student where user_id = '44133';
 Ответ: Beginner
  
