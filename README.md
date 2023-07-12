@@ -38,9 +38,6 @@
 
 4. написать отчет о результатах тестирования
 
-:paperclip: Ссылка на проект: https://qa-bugreport.atlassian.net/wiki/spaces/~639cb376b1082c30bb92996b/pages/65740/1-+2-/
+:paperclip: Ссылка на проект: https://docs.google.com/document/d/1ze5e_nAYR36fZpF8VXzACoIltQvqWY8jEPWuRI-NtAA/edit?usp=sharing
 
-###### логин 
-
-###### пароль 
 
